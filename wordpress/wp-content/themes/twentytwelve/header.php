@@ -49,7 +49,7 @@
                         #imagem{
                             float:left;
                             width: 150px; 
-                            height: 150px;
+                            height: 180px;
                           
                            
                             
