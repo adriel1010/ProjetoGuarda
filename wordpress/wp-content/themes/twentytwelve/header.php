@@ -107,9 +107,9 @@
                     <div id="contatos">
                         
                         <div id="divTelEmail"> 
-                            <a class="arrumar"  href="#">(44)9999-9999</a> <br/>
+                            <a class="arrumar"  href="#">(44)3423-1601</a> <br/>
                      
-                             <a class="arrumar" href="#"> contato@paranavai.pr.gov.br</a> <br/>
+                             <a class="arrumar" href="#">eloiee@ibest.com.br</a> <br/>
                        
                         </div>
                         
